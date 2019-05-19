@@ -1,0 +1,11 @@
+D:\VStudio\MoviesAPI\MoviesAPI\bin\Debug\netcoreapp2.0\MoviesAPI.deps.json
+D:\VStudio\MoviesAPI\MoviesAPI\bin\Debug\netcoreapp2.0\MoviesAPI.runtimeconfig.json
+D:\VStudio\MoviesAPI\MoviesAPI\bin\Debug\netcoreapp2.0\MoviesAPI.runtimeconfig.dev.json
+D:\VStudio\MoviesAPI\MoviesAPI\bin\Debug\netcoreapp2.0\MoviesAPI.dll
+D:\VStudio\MoviesAPI\MoviesAPI\bin\Debug\netcoreapp2.0\MoviesAPI.pdb
+D:\VStudio\MoviesAPI\MoviesAPI\obj\Debug\netcoreapp2.0\MoviesAPI.csproj.CoreCompileInputs.cache
+D:\VStudio\MoviesAPI\MoviesAPI\obj\Debug\netcoreapp2.0\MoviesAPI.AssemblyInfoInputs.cache
+D:\VStudio\MoviesAPI\MoviesAPI\obj\Debug\netcoreapp2.0\MoviesAPI.AssemblyInfo.cs
+D:\VStudio\MoviesAPI\MoviesAPI\obj\Debug\netcoreapp2.0\MoviesAPI.dll
+D:\VStudio\MoviesAPI\MoviesAPI\obj\Debug\netcoreapp2.0\MoviesAPI.pdb
+D:\VStudio\MoviesAPI\MoviesAPI\obj\Debug\netcoreapp2.0\MoviesAPI.csprojResolveAssemblyReference.cache
